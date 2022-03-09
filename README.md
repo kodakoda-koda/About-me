@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kodakoda-koda
-- 👀 I’m interested in datascience
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in datascience and machine-learning
+- 🌱 I’m currently learning Python at Kaggle
 
 <!---
 kodakoda-koda/kodakoda-koda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
